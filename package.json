@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "@substrate-system/asn1": "^0.0.10",
-    "cborg": "^4.2.3",
+    "cborg": "^5.1.0",
     "idb-keyval": "^6.2.1",
     "libsodium": "^0.8.1",
     "libsodium-wrappers": "^0.8.0"
